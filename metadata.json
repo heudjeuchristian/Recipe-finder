@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Recipe Finder",
+  "description": "An intelligent recipe finder that suggests dishes based on the ingredients you have. It uses AI to generate recipes and stunning food photography.",
+  "requestFramePermissions": []
+}
